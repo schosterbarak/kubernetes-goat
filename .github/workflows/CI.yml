@@ -1,4 +1,4 @@
-name: Jekyll site CI
+name: Kubernetes goat CI
 
 on:
   push:
